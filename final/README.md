@@ -70,6 +70,7 @@ HOVER-OVER THE GRAPHS IN PYTHON NOTEBOOK TO GET INTERACTIVE GRAPHS
 * As the data set also contains some information about the violation that are captured upon inspecting for various restaurants in different boroughs, there are reviews upon inspecting these restaurants on regular basis. So we will see which borough has violated more number of times and have got an critical remark for their restaurants.
 * This analysis was again done based on brough and their result is combined and plotted to compare and for better understanding of the stats. 
 * Also, I have plotted out the graph for most violated code and its description overall in the NYC city.
+* NLTK analysis done on the inspecting feedback given by the officer and most common words have been dispalyed in the python notebook.
 ###### Most common and least common violation for food quality.
 ![ana-2 1](https://cloud.githubusercontent.com/assets/25045818/25300481/5dc81d38-26de-11e7-89bb-a35ee282a8ee.JPG)
 ###### Comparison with number of critical and non critical inspection results recieved by each borough. Also showing in tabular format.
