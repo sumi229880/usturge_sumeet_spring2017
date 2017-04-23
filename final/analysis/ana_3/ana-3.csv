@@ -1,0 +1,17 @@
+,BORO,CRITICAL FLAG,CAMIS
+0,BRONX,Critical,20101
+1,BRONX,Not Applicable,669
+2,BRONX,Not Critical,16293
+3,BROOKLYN,Critical,56043
+4,BROOKLYN,Not Applicable,2032
+5,BROOKLYN,Not Critical,45627
+6,MANHATTAN,Critical,93127
+7,MANHATTAN,Not Applicable,2816
+8,MANHATTAN,Not Critical,72380
+9,Missing,Not Applicable,2
+10,QUEENS,Critical,53487
+11,QUEENS,Not Applicable,1615
+12,QUEENS,Not Critical,42541
+13,STATEN ISLAND,Critical,8195
+14,STATEN ISLAND,Not Applicable,238
+15,STATEN ISLAND,Not Critical,6177
